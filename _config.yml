@@ -1,10 +1,11 @@
+
+theme: minima
 title: Down to the Earth
 author: Jing Yan
 email: tjyanjing@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a site sharing my research in environmental and soil sciences..
 
-theme：minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
